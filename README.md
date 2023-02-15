@@ -12,4 +12,4 @@
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=szejkerek&show_icons=true&locale=en&layout=compact&theme=aura_dark"/> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=szejkerek&label=Profile%20views&color=0e75b6&style=flat&color=red"/> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=szejkerek&label=Profile%20views&color=0e75b6&style=flat&color=red"/> </p>
