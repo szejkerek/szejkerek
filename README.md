@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Bartek 😼😼😼</h1>
 
-- 📫 How to reach me **bartekk.gordon@gmail.com**
+- 📫 How to reach me <a href="mailto:bartekk.gordon@gmail.com"> **bartekk.gordon@gmail.com** </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
