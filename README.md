@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am Bartłomiej Gordon, a Computer Science studen
 
 ### Education
 
-- Bachelor's Degree in Computer Science, Silesian University of Technology (expected graduation: 2023)
+- Bachelor's Degree in Computer Science, Silesian University of Technology - expected graduation year: 2023
 
 ### Interests
 
@@ -24,7 +24,7 @@ Artificial Intelligence (AI) is an area that fascinates me due to its potential 
 
 ### Tech Stack
 
-- Programming Languages: C#, C++
+- Programming Languages: C#, C++, Python, Java, JS
 - Game Engines: Unity and I am trying to learn Unreal Engine
 - AI Frameworks: PyTorch
 - Version Control: Git
