@@ -1,37 +1,29 @@
-<h1 align="center">Hi, I'm Bartek 😼😼😼</h1>
+### Welcome to my GitHub profile
 
-## Computer Science Bachelor | Game Development | AI Systems
-
-Welcome to my GitHub profile! I am Bartłomiej Gordon, a Computer Science student at Silesian University of Technology, with a passion for game development and AI systems. I am dedicated to expanding my knowledge and skills in these exciting fields, constantly exploring new technologies and staying up-to-date with the latest trends.
-
-### Education
-
-- Bachelor's Degree in Computer Science, Silesian University of Technology - expected graduation year: 2023
+Hi, I'm Bartek 😼  
+Computer Science student at Silesian University of Technology. I try to constantly explore new technologies and stay up-to-date with the latest trends.
 
 ### Interests
 
 #### Game Development
-Game development is my true passion. I enjoy creating immersive experiences, designing gameplay mechanics, and building interactive worlds. I have a solid foundation in C++, which I utilize for low-level game programming and performance optimization. I am proficient in use of C# for game scripting, tool development, and prototyping. Some of my notable projects include:
+
+I enjoy creating immersive experiences, designing gameplay mechanics, and building interactive worlds. I have a solid foundation in **C++**, which I utilize for low-level game programming and performance optimization. I am also proficient in use of **C#**.
 
 - [Lethal Speed](https://github.com/szejkerek/LethalSpeed)
 - [Electro Exile](https://github.com/szejkerek/ElectroExile)
 - [Arkanoid Clone](https://github.com/szejkerek/ArkanoidGameClone)
 
 #### AI Systems
+
 Artificial Intelligence (AI) is an area that fascinates me due to its potential to enhance various aspects of technology. I have a keen interest in developing intelligent systems, machine learning algorithms, and neural networks. I have an experience with Python and popular AI library and PyTorch. Some of my notable AI projects include:
 
-- (private for now)
+- [Animal Detection](https://github.com/szejkerek/AnimalDetection)
 
 ### Tech Stack
 
-- Programming Languages: C#, C++, Python, Java, JS
-- Game Engines: Unity and I am trying to learn Unreal Engine
-- AI Frameworks: PyTorch
-- Version Control: Git
+- C#, C++, Python, Unity, PyTorch
 
-I am also adept at quickly learning new technologies and frameworks, which allows me to adapt to different project requirements efficiently.
-
-Thank you for visiting my profile, and I look forward to exploring exciting projects and collaborations in the realms of game development and AI systems!
+I am also cappable of quickly learning new technologies and frameworks, which allows me to adapt to different project requirements efficiently.
 
 ### Contact
 
