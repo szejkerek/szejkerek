@@ -1,29 +1,5 @@
-### Welcome to my GitHub profile
-
-Hi, I'm Bartek 😼  
-Computer Science student at Silesian University of Technology. I try to constantly explore new technologies and stay up-to-date with the latest trends.
-
-### Interests
-
-#### Game Development
-
-I enjoy creating immersive experiences, designing gameplay mechanics, and building interactive worlds. I have a solid foundation in **C++**, which I utilize for low-level game programming and performance optimization. I am also proficient in use of **C#**.
-
-- [Lethal Speed](https://github.com/szejkerek/LethalSpeed)
-- [Electro Exile](https://github.com/szejkerek/ElectroExile)
-- [Arkanoid Clone](https://github.com/szejkerek/ArkanoidGameClone)
-
-#### AI Systems
-
-Artificial Intelligence (AI) is an area that fascinates me due to its potential to enhance various aspects of technology. I have a keen interest in developing intelligent systems, machine learning algorithms, and neural networks. I have an experience with Python and popular AI library and PyTorch. Some of my notable AI projects include:
-
-- [Animal Detection](https://github.com/szejkerek/AnimalDetection)
-
-### Tech Stack
-
-- C#, C++, Python, Unity, PyTorch
-
-I am also cappable of quickly learning new technologies and frameworks, which allows me to adapt to different project requirements efficiently.
+## Hi, I'm Bartek 😼  
+Computer Science student at Silesian University of Technology.
 
 ### Contact
 
