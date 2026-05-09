@@ -1,8 +1,6 @@
-## Hi, I'm Bartek 😼  
-Computer Science student at Silesian University of Technology.
+## Bartek Gordon  
+Computer Science graduate from Silesian University of Technology.
 
-### Contact
+Interested in software development, problem solving, and building useful things with code.
 
-If you have any questions, collaboration opportunities, or just want to connect, feel free to reach out to me!
-
-📫 How to reach me <a href="mailto:bartekk.gordon@gmail.com"> **bartekk.gordon@gmail.com** </a>
+📫 **bartekk.gordon@gmail.com**
