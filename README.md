@@ -1,6 +1,9 @@
-## Bartłomiej Gordon  
+## Bartłomiej Gordon
+
 Computer Science graduate from Silesian University of Technology.
 
 Interested in software development, problem solving, and building useful things with code.
 
-📫 **bartekk.gordon@gmail.com**
+# [Visit my portfolio →](https://bgordon.pl/)
+
+**[bartekk.gordon@gmail.com](mailto:bartekk.gordon@gmail.com)**
